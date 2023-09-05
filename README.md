@@ -1,4 +1,4 @@
-# Theatre_Creator
+# Theatre Creator
 How To Use: 
 - Install or clone this project. 
 - Run creator.py
